@@ -45,6 +45,7 @@ body {
     text-decoration: none;
     font-weight: bold;
     transition:  color 0.3s;
+    font-size: 28px;
 }
 
 .nav ul li a:hover{
